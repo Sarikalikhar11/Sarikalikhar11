@@ -24,6 +24,7 @@ I'm Sarika Likhar, I'm a Front End Developer 👨‍💻 who is passionate about
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
