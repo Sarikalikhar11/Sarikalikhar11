@@ -6,11 +6,11 @@
 I'm Sarika Likhar, I'm a Front End Developer 👨‍💻 who is passionate about prgramming and open source. I'm also a self proclaimed graphic designer(Figma) and internet surfer 
 🏄‍♂️. 
 
-- 🔭 I’m currently working on Portfolio using reactjs
-- 🌱 I’m currently learning JavaScript, reactjs and nodejs
+- 🔭 I’m currently working on NSE project using reactjs
+- 🌱 I’m currently learning JavaScript, reactjs, angular14, typescript and nodejs
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: she/her
-- ⚡ Languages: Javascript, ReactJs, NodeJs
+- ⚡ Languages: Javascript, ReactJs, NodeJs, Angular, Typescript
 - 🛢 Database: MongoDB
 
 
