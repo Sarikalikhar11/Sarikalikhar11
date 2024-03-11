@@ -7,7 +7,7 @@ I'm Sarika Likhar, I'm a Front End Developer 👨‍💻 who is passionate about
 🏄‍♂️. 
 
 - 🔭 I’m currently working on NSE project using reactjs
-- 🌱 I’m currently learning JavaScript, reactjs, angular14, typescript and nodejs
+- 🌱 I’m currently learning JavaScript, reactjs, angular14, typescript and nodejs, gsap, tailwindCSS from SG Digital.
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: she/her
 - ⚡ Languages: Javascript, ReactJs, NodeJs, Angular, Typescript
@@ -25,6 +25,8 @@ I'm Sarika Likhar, I'm a Front End Developer 👨‍💻 who is passionate about
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![Gsap](https://img.shields.io/badge/-Gsap-333333?style=flat&logo=gsap)
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
